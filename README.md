@@ -1,5 +1,5 @@
 Hello!, i'm a software student eager to learn more about Data science, Python, and Kotlin. I hope we get along!<br/>
-Im currently pursing an IBM Data science certifcate and working as an interen feel free to drop a message!
+Im currently pursing an IBM Data science certifcate and working as an intern feel free to drop a message!
 
 <!--
 **LtZachriel/LtZachriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
